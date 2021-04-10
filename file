@@ -1,2 +1,6 @@
 HELLO GIT
 Hello github
+<<<<<<< HEAD
+=======
+hello everyone
+>>>>>>> parent of 2d6f538... Merge branch 'new'
